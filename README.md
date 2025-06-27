@@ -33,23 +33,18 @@ Hi! I'm **Aparna Bairapuneni**, an aspiring Data Scientist passionate about tran
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-1A5276?style=for-the-badge&logo=seaborn&logoColor=white)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 #### 🧠 Machine & Deep Learning  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![CNN](https://img.shields.io/badge/CNN-0052CC?style=for-the-badge)  
-![LSTM](https://img.shields.io/badge/LSTM-007ACC?style=for-the-badge)  
-![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-FF6F00?style=for-the-badge)
+
 
 #### 💬 NLP & Generative AI  
 ![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge&logo=python&logoColor=white)  
 ![Transformers](https://img.shields.io/badge/Transformers-FFC928?style=for-the-badge&logo=HuggingFace&logoColor=black)  
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)  
-![TextBlob](https://img.shields.io/badge/TextBlob-FFA500?style=for-the-badge)  
-![LangChain](https://img.shields.io/badge/LangChain-0047AB?style=for-the-badge)
 
 #### 🧰 Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
@@ -57,7 +52,6 @@ Hi! I'm **Aparna Bairapuneni**, an aspiring Data Scientist passionate about tran
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
