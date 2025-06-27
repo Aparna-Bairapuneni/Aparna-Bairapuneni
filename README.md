@@ -25,7 +25,7 @@ Hi! I'm **Aparna Bairapuneni**, an aspiring Data Scientist passionate about tran
 
 ### 🛠 Tech Stack
 
-#### 📊 Data & Analysis  
+#### 📊 Languages & Libraries 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
@@ -51,7 +51,7 @@ Hi! I'm **Aparna Bairapuneni**, an aspiring Data Scientist passionate about tran
 ![TextBlob](https://img.shields.io/badge/TextBlob-FFA500?style=for-the-badge)  
 ![LangChain](https://img.shields.io/badge/LangChain-0047AB?style=for-the-badge)
 
-#### 🧰 Tools & Workflow  
+#### 🧰 Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
